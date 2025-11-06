@@ -1,0 +1,11 @@
+CreditScore,Geography,Gender,Age,Balance,NumOfProducts,EstimatedSalary,Exited
+600,France,Male,40,60000,1,50000,0
+700,Spain,Female,45,70000,2,60000,0
+800,Germany,Female,38,80000,1,70000,1
+400,France,Male,30,30000,1,40000,1
+550,Spain,Male,50,40000,2,42000,0
+760,France,Female,36,75000,1,72000,0
+680,Germany,Female,42,68000,2,65000,1
+710,Spain,Male,39,72000,1,54000,0
+640,France,Male,48,50000,2,50000,1
+590,Germany,Female,52,45000,1,47000,1
