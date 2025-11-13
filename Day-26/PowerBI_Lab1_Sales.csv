@@ -1,0 +1,11 @@
+OrderID,OrderDate,Region,Category,Product,Quantity,UnitPrice,Discount,PaymentMethod,LineTotal
+1001,2024-01-05,North,Beverages,Coffee Beans 1kg,3,25.0,0.0,Credit Card,75.0
+1002,2024-01-07,South,Snacks,Potato Chips,10,2.5,0.1,Cash,22.5
+1003,2024-01-09,West,Beverages,Green Tea Box,5,6.0,0.05,UPI,28.5
+1004,2024-02-02,East,Dairy,Milk 1L,12,1.2,0.0,Credit Card,14.399999999999999
+1005,2024-02-11,North,Snacks,Trail Mix 500g,4,8.0,0.0,Wallet,32.0
+1006,2024-02-14,South,Beverages,Orange Juice 1L,6,3.0,0.1,Credit Card,16.2
+1007,2024-03-03,West,Bakery,Whole Wheat Bread,7,2.0,0.0,Cash,14.0
+1008,2024-03-16,East,Beverages,Black Tea Box,9,5.5,0.05,UPI,47.025
+1009,2024-03-21,North,Dairy,Yogurt 500g,8,1.5,0.0,Credit Card,12.0
+1010,2024-03-29,South,Bakery,Croissant,15,1.8,0.05,Cash,25.65
