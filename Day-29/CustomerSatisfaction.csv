@@ -1,0 +1,8 @@
+CustomerID,Satisfaction,ResponseTime,IssueResolved,AgentExperience,Priority
+C01,High,5,Yes,3,Low
+C02,Low,18,No,1,High
+C03,Medium,12,Yes,2,Medium
+C04,High,4,Yes,4,Low
+C05,Low,20,No,1,High
+C06,Medium,10,Yes,3,Medium
+C07,High,6,Yes,4,Low

@@ -1,0 +1,9 @@
+Department,ExpenseType,Month,Amount
+HR,Training,Jan,1200
+HR,Recruitment,Jan,800
+IT,Software,Jan,3000
+IT,Hardware,Jan,2500
+Marketing,Ads,Jan,4000
+Marketing,Print,Jan,900
+Sales,Travel,Jan,2200
+Sales,ClientMeetings,Jan,1500

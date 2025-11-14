@@ -1,0 +1,9 @@
+Store,Region,Month,Sales,UnitsSold,TargetSales,CustomerSatisfaction
+Store A,North,Jan,52000,410,60000,82
+Store B,East,Jan,47000,390,50000,79
+Store C,West,Jan,68000,520,65000,88
+Store D,South,Jan,44000,370,55000,75
+Store A,North,Feb,61000,450,62000,85
+Store B,East,Feb,52000,420,52000,81
+Store C,West,Feb,72000,540,68000,89
+Store D,South,Feb,46000,380,56000,76
